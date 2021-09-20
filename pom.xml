@@ -4,7 +4,7 @@
 
     <groupId>com.thirdstreet.kafka</groupId>
     <artifactId>kafka-connect-transform</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Kafka Connect Transform</name>
     <description>Kafka Transformations for use with Kafka Connect.</description>
